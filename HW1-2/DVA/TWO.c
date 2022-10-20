@@ -6,7 +6,7 @@ int main() {
 	setlocale(LC_ALL, "rus");
 	int n;
 	float a, b, c;
-	printf("¬вод:");
+	printf("Ввод:");
 	scanf_s("%d", &n);
 	a = n;
 	b = n + 1;
