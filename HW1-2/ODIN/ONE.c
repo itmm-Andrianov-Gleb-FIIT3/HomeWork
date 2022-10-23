@@ -20,7 +20,4 @@ int main() {
 	S = (sqrt((pper) * (pper - a) * (pper - b) * (pper - c)));
 	printf("Периметр равен %.2f\n", P);
 	printf("Площадь равна %.2f\n", S);
-	printf(" %.2f\n", a);
-	printf(" %.2f\n", b);
-	printf("%.2f\n", c);
 }
